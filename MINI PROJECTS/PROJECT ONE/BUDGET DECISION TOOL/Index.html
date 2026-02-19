@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Budget Decision Tool</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Budget Decision Tool</h1>
+    <p>Check if you can afford your purchase.</p>
+    
+    <form id="budgetForm">
+      <label>Budget Amount</label>
+      <input type="number" id="budget" placeholder="Enter your budget" required>
+      
+      <label>Item Price</label>
+      <input type="number" id="price" placeholder="Enter item price" required>
+      
+      <label>Savings (optional)</label>
+      <input type="number" id="savings" placeholder="Enter savings">
+      
+      <button type="submit">Check Decision</button>
+    </form>
+    
+    <div id="result"></div>
+   <p class="footer">© 2026 Adam | Budget Decision Tool. Built with ❤️ using HTML, CSS, and JavaScript.</p>
+
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
