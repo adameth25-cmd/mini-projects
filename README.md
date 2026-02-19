@@ -2,6 +2,6 @@
 Projects: Budget Tool, Human Check, and Portfolio
 
 ## Projects
-- [Budget Decision Tool](PROJECT%20ONE/index.html)
-- [Human Check Challenge](PROJECT%20TWO/index.html)
-- [Portfolio Website](PROJECT%20THREE/index.html)
+- [Budget Decision Tool](PROJECT%20ONE/index.html](https://github.com/adameth25-cmd/mini-projects/blob/main/MINI%20PROJECTS/PROJECT%20ONE/BUDGET%20DECISION%20TOOL/Index.html))
+- [Human Check Challenge](https://github.com/adameth25-cmd/mini-projects/blob/main/MINI%20PROJECTS/PROJECT%20TWO/ARE%20YOU%20HUMAN/Index.html)
+- [Portfolio Website]([PROJECT%20TWO/index.html](https://github.com/adameth25-cmd/mini-projects/blob/main/MINI%20PROJECTS/PROJECT%20THREE/MY%20PORTFOLIO/Index.html)
